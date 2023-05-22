@@ -65,6 +65,7 @@
             <a href="#">Forgot Password?</a>
         </div>
     </form>
+    <pre class="text-danger">${errorMessage}</pre>
 </div>
 
 <script src="\webjars\bootstrap\5.2.0\js\bootstrap.min.js"></script>
